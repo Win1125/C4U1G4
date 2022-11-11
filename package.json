@@ -1,6 +1,9 @@
 {
   "name": "c4u1g4-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.17.1"
+  },
   "description": "Proyecto Backend API en NodeJS MisionTIC 2022",
   "main": "index.js",
   "scripts": {
